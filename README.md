@@ -20,14 +20,3 @@ Automated fish identification is crucial for advancing intelligent aquaculture s
 
 In this study, we propose a novel network exploration methodology, grounded in the RegNet design paradigm, to develop task-specific architectures for underwater fish recognition. By training on a small dataset with approximately 200K iterations, we developed high-performing models, termed **SeekNet**, across varying complexities. Compared to state-of-the-art models, SeekNet demonstrates superior performance. On our primary dataset, SeekNet achieves a rank-1 accuracy of **95.97%** and a True Acceptance Rate (TAR) of **88.04%** at a False Acceptance Rate (FAR) of $10^{-6}$.
 
-## 📚 Citation
-
-If you find this project or dataset useful for your research, please cite our paper:
-
-```bibtex
-@article{seeknet2025,
-  title={A Design Space-Based Network for Efficient and Accurate Fish Recognition in Aquaculture},
-  author={Luo, Tuyan and Tang, Xiaohu and Lv, Xin and Bao, Baolong and Chen, Xiaohui and Fang, Xiu and Liu, Zhixiang and Xu, Jingxiang},
-  journal={Preprint submitted to Elsevier},
-  year={2025}
-}

@@ -1,0 +1,38 @@
+base_width: 48
+bias: 0.1
+block_widths:
+- 48
+- 128
+- 344
+- 944
+bottleneck_ratio: 2
+bottleneck_ratios:
+- 2
+- 2
+- 2
+- 2
+embed_dim: 512
+flops: 420156608
+group_width: 1
+group_widths:
+- 1
+- 1
+- 1
+- 1
+m: 0.35
+multip: 2.700000000000001
+num_blocks:
+- 1
+- 1
+- 5
+- 1
+s: 32
+se_ratio: 16
+se_ratios:
+- 16
+- 16
+- 16
+- 16
+smooth: 0.30000000000000004
+total_blocks: 8
+width_increment: 84
